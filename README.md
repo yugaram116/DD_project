@@ -24,6 +24,7 @@ Calculates the percentage of time eyes remain closed over a rolling window.
 Higher values indicate fatigue.
 
 🗂️ Project Structure
+
 dd_project/
 │
 ├── app.py                           # Streamlit web application
